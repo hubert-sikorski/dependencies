@@ -5,7 +5,7 @@
 
 ## Languages list
 
-A languages object transformed into an array of lang objects using the `for of` loop
+A languages object transformed into an array of lang objects using the `for of` loop logic.
 
 ## Countries list
 
